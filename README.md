@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on  full stack development projects
 - 📫 How to reach me tloverage@gmail.com/ 0814587604
-- 😄 Pronouns: ...Him/His
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I love coding that i think I am going to change my career
 
 <!---
