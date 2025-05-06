@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tatenda! <br/><a href="https://github.com/joshmadakor1">Software Programming Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Bookkkeeper</a> 
+<h1>Hi, I'm Tatenda! <br/><a href="https://github.com/joshmadakor1">Software Programming Student,Salesforce Certified Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Bookkkeeper</a> 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
