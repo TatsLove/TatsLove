@@ -24,7 +24,7 @@ I'm a passionate Salesforce Certified Administrator/ Student Web developer with 
 
 ## Featured Projects 💻
 
-###Trailhead Salesforce
+### [Trailhead Salesforce]
 https://trailhead.salesforce.com/users/maxwelltuglo/trailmixes/salesforce-africa-ohana-trailmix
 https://trailhead.salesforce.com/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential
 
