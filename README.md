@@ -1,50 +1,49 @@
-<h1>Hi, I'm Tatenda! <br/><a href="https://github.com/joshmadakor1">Software Programming Student,Salesforce Certified Administrator</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Bookkkeeper</a> 
+# Hi there, I'm [Tatenda]! 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
+![Banner Image](your_banner_image_url_here)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>JavaScript</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## About Me 🚀
 
-<h2>📺 Popular YouTube Videos</h2>
+I'm a passionate **[Salesforce Certified Administrator/ Student Web developer]** with experience in **[flow builder, user management,reports and dashboard customisation]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **[JavaScript, Salesforce Apex, Lightning Web Components (LWC)**
+- 🔭 Working on: **[ A full-stack e-commerce app (MERN stack) & a Salesforce automation project]**
+- 🌍 Languages: **[programming languages and human languages you speak]**
+- 📫 How to reach me: **[tloverage@gmail.com or www.linkedin.com/in/tatenda-tirivavi]**
+  
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![image](https://github.com/user-attachments/assets/b2457dd0-bf14-4e2e-a48a-7bcaa2b1ac32)
+)
+
+
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
+## Featured Projects 💻
+
+### [Project 1 Title](project_1_link)
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+
+### [Project 2 Title](project_2_link)
+
+![Project 2 Screenshot](project_2_screenshot_url)
+
+**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[LinkedIn]**(your_linkedin_profile_link)
+- **[Twitter]**(your_twitter_profile_link)
 
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
