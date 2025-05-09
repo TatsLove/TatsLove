@@ -20,7 +20,8 @@ I'm a passionate Salesforce Certified Administrator/ Student Web developer with 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![image](https://github.com/user-attachments/assets/b2457dd0-bf14-4e2e-a48a-7bcaa2b1ac32)
 ![image](https://github.com/user-attachments/assets/f57b618e-823e-4980-8ae6-59d6f286e63c)
-![image](https://github.com/user-attachments/assets/bdcfd896-97de-43c3-a5ba-74e253002dac)
+![image](https://github.com/user-attachments/assets/635dcfd6-fe6c-4b02-b075-f62cce51a872)
+
 
 ## Featured Projects 💻
 
