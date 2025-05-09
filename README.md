@@ -1,6 +1,7 @@
 # Hi there, I'm [Tatenda]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![![Professiona photo](https://github.com/user-attachments/assets/e47be594-c2d1-486c-8da2-db45e890c56a)
+](your_banner_image_url_here)
 
 ## About Me 🚀
 
@@ -20,7 +21,11 @@ I'm a passionate **[Salesforce Certified Administrator/ Student Web developer]**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![image](https://github.com/user-attachments/assets/b2457dd0-bf14-4e2e-a48a-7bcaa2b1ac32)
-)
+![image](https://github.com/user-attachments/assets/f57b618e-823e-4980-8ae6-59d6f286e63c)
+![image](https://github.com/user-attachments/assets/bdcfd896-97de-43c3-a5ba-74e253002dac)
+
+
+
 
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
