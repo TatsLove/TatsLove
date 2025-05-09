@@ -24,16 +24,9 @@ I'm a passionate Salesforce Certified Administrator/ Student Web developer with 
 
 ## Featured Projects 💻
 
-### [Trailhead Salesforce](https://www.salesforce.com/trailblazer/wtj0tvzcobpaysapc6))
+###Trailhead Salesforce
 https://trailhead.salesforce.com/users/maxwelltuglo/trailmixes/salesforce-africa-ohana-trailmix
-
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+https://trailhead.salesforce.com/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential
 
 ## Get in Touch 📬
 - **[LinkedIn]**(www.linkedin.com/in/tatenda-tirivavi)
