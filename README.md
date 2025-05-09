@@ -9,7 +9,7 @@ I'm a passionate **[Salesforce Certified Administrator/ Student Web developer]**
 
 - 🌱 Currently learning: **[JavaScript, Salesforce Apex, Lightning Web Components (LWC)**
 - 🔭 Working on: **[ A full-stack e-commerce app (MERN stack) & a Salesforce automation project]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+- 🌍 Languages: **[python,java,apex,CSS,Node.js and english]**
 - 📫 How to reach me: **[tloverage@gmail.com or www.linkedin.com/in/tatenda-tirivavi]**
   
 
@@ -24,15 +24,9 @@ I'm a passionate **[Salesforce Certified Administrator/ Student Web developer]**
 ![image](https://github.com/user-attachments/assets/f57b618e-823e-4980-8ae6-59d6f286e63c)
 ![image](https://github.com/user-attachments/assets/bdcfd896-97de-43c3-a5ba-74e253002dac)
 
-
-
-
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Trailhead Administration](https://www.salesforce.com/trailblazer/wtj0tvzcobpaysapc6))
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
@@ -45,10 +39,8 @@ I'm a passionate **[Salesforce Certified Administrator/ Student Web developer]**
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/tatenda-tirivavi)
+- **[Twitter]**((https://x.com/LTirivavi))
 
 
 
