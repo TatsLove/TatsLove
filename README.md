@@ -1,15 +1,13 @@
 # Hi there, I'm [Tatenda]! 👋
 
-![![Professiona photo](https://github.com/user-attachments/assets/e47be594-c2d1-486c-8da2-db45e890c56a)
-](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Salesforce Certified Administrator/ Student Web developer]** with experience in **[flow builder, user management,reports and dashboard customisation]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Salesforce Certified Administrator/ Student Web developer with experience in  builder, user management,reports and dashboard customisation. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[JavaScript, Salesforce Apex, Lightning Web Components (LWC)**
-- 🔭 Working on: **[ A full-stack e-commerce app (MERN stack) & a Salesforce automation project]**
-- 🌍 Languages: **[python,java,apex,CSS,Node.js and english]**
+- 🌱 Currently learning: JavaScript, Salesforce Apex, Lightning Web Components 
+- 🔭 Working on:  A full-stack e-commerce app (MERN stack) & a Salesforce automation project
+- 🌍 Languages: *python,java,apex,CSS,Node.js and english]**
 - 📫 How to reach me: **[tloverage@gmail.com or www.linkedin.com/in/tatenda-tirivavi]**
   
 
