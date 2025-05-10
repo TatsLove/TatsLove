@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Salesforce Certified Administrator/ Student Web developer with experience in  builder, user management,reports and dashboard customisation. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Salesforce Certified Administrator/ Student Web developer with experience in  flow builder, user management,reports and dashboard customisation. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: JavaScript, Salesforce Apex, Lightning Web Components 
 - 🔭 Working on:  A full-stack e-commerce app  & a Salesforce automation project
